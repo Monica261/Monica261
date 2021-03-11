@@ -5,20 +5,15 @@ Sou ***desenvolvedora front-end***, atuo profissionalmente há 2 anos e sou estu
 ![shield](https://img.shields.io/github/followers/Monica261?style=social)
 
 
-<!--<p align="left">
-  
-  <a href="https://twitter.com/nogueiratdm">
-    <img src="./img/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
-  </a>
+### Siga-me nas redes sociais:
 
-  <a href="https://www.linkedin.com/in/lnogueiratdm/">
+<p align="left">
+
+  <a href="https://www.linkedin.com/in/mônica-torres-198875149">
     <img src="./img/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>
-
-  <a href="https://medium.com/@lucasnogueira_90384">
-    <img src="./img/medium.svg" alt="medium" style="vertical-align:top; margin:6px 4px">
-  </a>
-</p>-->
+</p>  
+  
 
 ### Tecnologias
 <p align="left">
