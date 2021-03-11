@@ -17,7 +17,7 @@ Sou ***desenvolvedora front-end***, atuo profissionalmente há 2 anos e sou estu
 
 ### Tecnologias
 <p align="left">
-  <img src="./img/angular.svg" alt="angular">
+  <img href="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black" alt="angular">
   <img src="./img/react.svg" alt="react">
   <img src="./img/html.svg" alt="html">
   <img src="./img/css3.svg" alt="css">
