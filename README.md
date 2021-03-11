@@ -1,16 +1,33 @@
-### Hi there 👋
+## Olá, bem vindo ao meu perfil! 👋
 
-<!--
-**Monica261/Monica261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou ***desenvolvedora front-end***, atuo profissionalmente há 2 anos e sou estudante na Fatec de São José dos Campos. Atualmente procuro concluir a faculdade e me especializar em habilidades de soluções front-end. 
 
-Here are some ideas to get you started:
+![shield](https://img.shields.io/github/followers/Monica261?style=social)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!--<p align="left">
+  
+  <a href="https://twitter.com/nogueiratdm">
+    <img src="./img/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="https://www.linkedin.com/in/lnogueiratdm/">
+    <img src="./img/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="https://medium.com/@lucasnogueira_90384">
+    <img src="./img/medium.svg" alt="medium" style="vertical-align:top; margin:6px 4px">
+  </a>
+</p>-->
+
+### Tecnologias
+<p align="left">
+  <img src="./img/angular.svg" alt="angular">
+  <img src="./img/react.svg" alt="react">
+  <img src="./img/html.svg" alt="html">
+  <img src="./img/css3.svg" alt="css">
+  <img src="./img/js.svg" alt="js">
+</p>
+
+
+![Lucas](https://github-readme-stats.vercel.app/api?username=Monica261)
