@@ -24,4 +24,4 @@ Sou ***desenvolvedora front-end***, atuo profissionalmente há 2 anos e sou estu
 </p>
 
 
-![Lucas](https://github-readme-stats.vercel.app/api?username=Monica261)
+![Mônica](https://github-readme-stats.vercel.app/api?username=Monica261)
