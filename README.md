@@ -21,6 +21,7 @@ Sou ***desenvolvedora front-end***, atuo profissionalmente há 2 anos e sou estu
   <img src="./img/html.svg" alt="html">
   <img src="./img/css3.svg" alt="css">
   <img src="./img/js.svg" alt="js">
+  <img src="./img/node.svg" alt="js">
 </p>
 
 
