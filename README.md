@@ -4,6 +4,8 @@ Sou ***desenvolvedora front-end***, atuo profissionalmente há 2 anos e sou estu
 
 ![shield](https://img.shields.io/github/followers/Monica261?style=social)
 
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 
 ### Siga-me nas redes sociais:
 
