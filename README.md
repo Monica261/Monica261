@@ -24,4 +24,4 @@ Sou ***desenvolvedora front-end***, atuo profissionalmente há 2 anos e sou estu
 </p>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Monica261_icons=true&theme=gotham" alt="Mônica Torres" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Monica261&show_icons=true&theme=gotham" alt="Mônica Torres" />
