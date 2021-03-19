@@ -17,7 +17,6 @@ Sou ***desenvolvedora front-end***, atuo profissionalmente há 2 anos e sou estu
 
 ### Tecnologias
 <p align="left">
-  <img src="./img/reactnative.png" alt="react native">
   <img src="./img/react.svg" alt="react">
   <img src="./img/html.svg" alt="html">
   <img src="./img/css3.svg" alt="css">
