@@ -1,6 +1,6 @@
 ## Olá, bem vindo ao meu perfil! 👋
 
-Sou ***desenvolvedora front-end***, atuo profissionalmente há 2 anos e sou estudante na Fatec de São José dos Campos. Atualmente procuro concluir a faculdade e me especializar em habilidades de soluções front-end. 
+Sou ***Desenvolvedora Front-End***, atuo profissionalmente há 3 anos e sou formada em Analise e Desenvolvimento de sistemas pela Fatec de São José dos Campos. Atualmente procuro novos desafios e estou sempre disposta a aprender novas tecnologias. 
 
 ![shield](https://img.shields.io/github/followers/Monica261?style=social)
 
