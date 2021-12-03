@@ -17,11 +17,20 @@ Sou ***Desenvolvedora Front-End***, atuo profissionalmente há 3 anos e sou form
 
 ### Tecnologias
 <p align="left">
-  <img src="./img/react.svg" alt="react">
-  <img src="./img/html.svg" alt="html">
-  <img src="./img/css3.svg" alt="css">
-  <img src="./img/js.svg" alt="js">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 <br /><br />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Monica261&show_icons=true&theme=gotham" alt="Mônica Torres"/>
+### Bancos de dados
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+ </p>
+<br /><br />
+
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=timcreative&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="Mônica Torres" /> 
