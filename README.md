@@ -33,4 +33,5 @@ Sou ***Desenvolvedora Front-End***, atuo profissionalmente há 3 anos e sou form
  </p>
 <br /><br />
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Monica261&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="Mônica Torres" /> 
+<p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Monica261&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="Mônica Torres" /> 
+<p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monica261&layout=compact&theme=cobalt&hide_border=true" alt="Mônica Torres" />
